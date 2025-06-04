@@ -1,0 +1,6 @@
+in this project on click of logo it will go to home
+on click signin and customer it will display a modal
+onclick or when hover on menu list it will display a moadl 
+onclick it will go to product details page and
+onclick of sneakers it will go the proceed to checkout page 
+and on click of proceed to checkout it will go the payment page.
